@@ -1,7 +1,7 @@
 # Agent Observability, Evaluation & Safety Workshop
 ## Learn LangSmith · DeepEval · Guardrails AI · Presidio
 
-A **4-hour hands-on workshop** teaching production-grade AI agent hardening through a concrete, runnable project: a multi-agent FinTech customer support system for SecureBank.
+A **4-hour hands-on workshop** production-grade AI agent hardening through a concrete, runnable project: a multi-agent FinTech customer support system for SecureBank.
 
 ---
 
